@@ -1,4 +1,4 @@
-# OrdinalRecommenders
+# Recommendation system
 
 # So long, MovieLens 100K:
 
