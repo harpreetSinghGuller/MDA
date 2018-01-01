@@ -1,6 +1,6 @@
 
 ### --------------------------------------------------
-### --- Recommender Systems: Ordinal Logistic Regression
+### --- Recommender Systems: Ordinal Logistic Regression hello
 ### --- Goran S. Milovanović, PhD
 ### --- Data Kolektiv, Belgrade, Serbia
 ### --- Developed for: SmartCat, Novi Sad, Serbia
@@ -29,6 +29,7 @@ library(Matrix)
 library(text2vec)
 
 ### --- ratings data
+setwd('./its wrong need to changes')
 setwd('./data100K')
 ratingsData <- read_delim('u.data',
                           col_names = F,
